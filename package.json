@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.5"
+  },
+  "name": "quitandaonlinebs5",
+  "description": "Esse é o código-fonte do design da loja virtual \"Quitanda Online\" cujo vídeo mostrando o passo-a-passo de construção está disponível no YouTube, no link https://youtu.be/0fUB_f_XKsM .",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maroquio/QuitandaOnlineBS5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maroquio/QuitandaOnlineBS5/issues"
+  },
+  "homepage": "https://github.com/maroquio/QuitandaOnlineBS5#readme"
+}
